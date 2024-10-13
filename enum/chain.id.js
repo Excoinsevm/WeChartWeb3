@@ -3,6 +3,7 @@ const EnumChainId = {
     BSC_TESTNET: 97,
     ETH: 1,
     POLYGON: 137,
-    RINKEBY: 4
+    RINKEBY: 4,
+    BROCK: 7171
 }
 module.exports = EnumChainId;
